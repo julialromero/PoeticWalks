@@ -1,5 +1,5 @@
 # PoeticWalks
-I implement an N-gram model to complete sentences with bridge words.
+For my 3rd class project in UT-Austin's EE422C Software/Data Structures II course, I use Java tp implement an N-gram model to complete sentences with bridge words.
 
 ## N-gram Construction
 The graph reads in corpus.txt and creates a graph with words as vertices. Feel free to write your own corpus.txt input to test it out. Words that are subsequent multiple times will have edges with weights that increment with each occurence.
